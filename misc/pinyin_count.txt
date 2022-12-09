@@ -3,7 +3,9 @@ anjian 1
 cao 2
 caozuo 3
 fanwen 3
+fen 2
 jian 1
+ping 2
 wen 1
 za 1
 zhong 1
