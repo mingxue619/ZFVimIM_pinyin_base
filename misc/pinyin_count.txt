@@ -1,7 +1,7 @@
-cao 1
-caozuo 1
+cao 2
+caozuo 1 1
 fanwen 3
 wen 1
 za 1
 zhong 1
-zuo 1
+zuo 1 1
