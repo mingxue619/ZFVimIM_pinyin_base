@@ -2,11 +2,18 @@ an 1
 anjian 1
 cao 2
 caozuo 3
+dang 2
 fanwen 3
-fen 2
+fen 5
+guan 1
 jian 1
-ping 2
+ping 5
+qian 2
 wen 1
+xiang 1
 za 1
+zhi 1
 zhong 1
+zong 1
+zongxiang 1
 zuo 1 1
