@@ -1,5 +1,4 @@
 cao 2
-caozuo 1 1
 fanwen 3
 wen 1
 za 1
