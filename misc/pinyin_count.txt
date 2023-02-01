@@ -4,6 +4,7 @@ cao 2
 caozuo 3
 dang 2
 du 2
+e 2
 fanwen 3
 fen 5
 gao 1
